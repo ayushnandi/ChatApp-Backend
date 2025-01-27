@@ -5,7 +5,6 @@ import com.chatapp.chat_app_backend.entities.Message;
 import com.chatapp.chat_app_backend.entities.Room;
 import com.chatapp.chat_app_backend.reopsitories.RoomReopsitory;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
